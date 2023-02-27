@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sarang Shelke</h1>
-<h3 align="center">Third year Computer Engineer</h3>
+<h3 align="center">Web 3 Enthusiast</h3>
+<h4 align="center">Third year Computer Engineer</h4>
 
 <p align="left"> <a href="https://twitter.com/sarang_shelke" target="blank"><img src="https://img.shields.io/twitter/follow/sarang_shelke?logo=twitter&style=for-the-badge" alt="sarang_shelke" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **NodeJS, Blockchain**
+- 🌱 I’m currently learning **ReactJs, NodeJS, Blockchain**
 
 - 👯 I’m looking to collaborate on **Blockchain Development**
 
-- 💬 Ask me about **NodeJS, Blockchain**
+- 💬 Ask me about **ReactJs, API, NodeJS, Blockchain**
 
 - 📫 How to reach me **sarangshelke7070@gmail.com**
 
